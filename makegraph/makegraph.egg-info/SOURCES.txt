@@ -1,0 +1,7 @@
+setup.py
+makegraph/__init__.py
+makegraph/module.py
+makegraph.egg-info/PKG-INFO
+makegraph.egg-info/SOURCES.txt
+makegraph.egg-info/dependency_links.txt
+makegraph.egg-info/top_level.txt
